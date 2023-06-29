@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - db_boravencer@localhost" uuid="a43b4e35-3874-4913-9847-31c944a93445">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>db_boravencer.*</schema-pattern>
+      <default-schemas>db_boravencer.*</default-schemas>
+    </data-source>
+  </component>
+</project>

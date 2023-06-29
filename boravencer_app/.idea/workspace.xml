@@ -1,0 +1,673 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b012a6fa-5578-4662-bab0-df1df88b1127" name="Default" comment="" />
+    <ignored path="boravencer1.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="MySQL - db_boravencer@localhost" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="MySQL - db_boravencer@localhost" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="tb_crianca" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="boravencer1" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="form3.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/form3.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="5.8846154">
+              <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+              <folding>
+                <element signature="e#42332#42355#0#HTML" expanded="true" />
+                <element signature="e#42426#42448#0#HTML" expanded="true" />
+                <element signature="e#51267#51289#0#HTML" expanded="true" />
+                <element signature="e#57064#57086#0#HTML" expanded="true" />
+                <element signature="e#109523#109544#0#HTML" expanded="true" />
+                <element signature="e#109603#109624#0#HTML" expanded="true" />
+                <element signature="e#109683#109704#0#HTML" expanded="true" />
+                <element signature="e#109765#109786#0#HTML" expanded="true" />
+                <element signature="e#112769#112790#0#HTML" expanded="true" />
+                <element signature="e#121723#121744#0#HTML" expanded="true" />
+                <element signature="e#125889#125910#0#HTML" expanded="true" />
+                <element signature="e#132311#132332#0#HTML" expanded="true" />
+                <element signature="e#134670#134691#0#HTML" expanded="true" />
+                <element signature="e#137460#137481#0#HTML" expanded="true" />
+                <element signature="e#143261#143282#0#HTML" expanded="true" />
+                <element signature="e#145602#145623#0#HTML" expanded="true" />
+                <element signature="e#149572#149593#0#HTML" expanded="true" />
+                <element signature="e#155478#155499#0#HTML" expanded="true" />
+                <element signature="e#160695#160716#0#HTML" expanded="true" />
+                <marker date="1471570014034" expanded="true" signature="9554:9723" placeholder="select id_cr... tb_crianca" />
+                <marker date="1471570014034" expanded="true" signature="9751:9914" placeholder="select id_cr... tb_crianca" />
+                <marker date="1471570014034" expanded="true" signature="10821:10856" placeholder="SELECT MAX(i... tb_crianca" />
+                <marker date="1471570014034" expanded="true" signature="11256:12686" placeholder="insert into tb_crianca... " />
+                <marker date="1471570014034" expanded="true" signature="11256:13099" placeholder="insert into tb_crianca... " />
+                <marker date="1471570014034" expanded="true" signature="14069:14088" placeholder="..." />
+                <marker date="1471570014034" expanded="true" signature="14410:14419" placeholder="..." />
+                <marker date="1471570014034" expanded="true" signature="18836:18903" placeholder="..." />
+                <marker date="1471570014034" expanded="true" signature="21892:21959" placeholder="..." />
+                <marker date="1471570014034" expanded="true" signature="33793:33808" placeholder="..." />
+                <marker date="1471570014034" expanded="true" signature="41656:41671" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="racunhoEsc.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/racunhoEsc.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-70.61539">
+              <caret line="923" column="0" selection-start-line="923" selection-start-column="0" selection-end-line="923" selection-end-column="0" />
+              <folding>
+                <element signature="e#7#292#0#PHP" expanded="true" />
+                <element signature="e#302#589#0#PHP" expanded="true" />
+                <element signature="e#713#1000#0#PHP" expanded="true" />
+                <element signature="e#1011#1295#0#PHP" expanded="true" />
+                <element signature="e#1305#1544#0#PHP" expanded="true" />
+                <element signature="e#1555#1794#0#PHP" expanded="true" />
+                <element signature="e#1805#2051#0#PHP" expanded="true" />
+                <element signature="e#2061#2350#0#PHP" expanded="true" />
+                <element signature="e#2360#2608#0#PHP" expanded="true" />
+                <element signature="e#2618#2908#0#PHP" expanded="true" />
+                <element signature="e#2919#3202#0#PHP" expanded="true" />
+                <element signature="e#3212#3544#0#PHP" expanded="true" />
+                <element signature="e#3670#3913#0#PHP" expanded="true" />
+                <element signature="e#3923#4210#0#PHP" expanded="true" />
+                <element signature="e#4221#4508#0#PHP" expanded="true" />
+                <element signature="e#4519#4851#0#PHP" expanded="true" />
+                <element signature="e#4862#5194#0#PHP" expanded="true" />
+                <element signature="e#5205#5537#0#PHP" expanded="true" />
+                <element signature="e#5548#5880#0#PHP" expanded="true" />
+                <element signature="e#5891#6125#0#PHP" expanded="true" />
+                <element signature="e#6136#6420#0#PHP" expanded="true" />
+                <element signature="e#6430#6717#0#PHP" expanded="true" />
+                <element signature="e#6728#7015#0#PHP" expanded="true" />
+                <element signature="e#7026#7307#0#PHP" expanded="true" />
+                <element signature="e#7330#7611#0#PHP" expanded="true" />
+                <element signature="e#7622#7909#0#PHP" expanded="true" />
+                <element signature="e#7920#8207#0#PHP" expanded="true" />
+                <element signature="e#8218#8502#0#PHP" expanded="true" />
+                <element signature="e#8513#8747#0#PHP" expanded="true" />
+                <element signature="e#8758#9045#0#PHP" expanded="true" />
+                <element signature="e#9056#9299#0#PHP" expanded="true" />
+                <element signature="e#9310#9598#0#PHP" expanded="true" />
+                <element signature="e#9609#9897#0#PHP" expanded="true" />
+                <element signature="e#9908#10196#0#PHP" expanded="true" />
+                <element signature="e#10207#10496#0#PHP" expanded="true" />
+                <element signature="e#10507#10796#0#PHP" expanded="true" />
+                <element signature="e#10807#11139#0#PHP" expanded="true" />
+                <element signature="e#11150#11445#0#PHP" expanded="true" />
+                <element signature="e#11456#11743#0#PHP" expanded="true" />
+                <element signature="e#11754#12039#0#PHP" expanded="true" />
+                <element signature="e#12050#12298#0#PHP" expanded="true" />
+                <element signature="e#12309#12557#0#PHP" expanded="true" />
+                <element signature="e#12568#12814#0#PHP" expanded="true" />
+                <element signature="e#12825#13071#0#PHP" expanded="true" />
+                <element signature="e#13082#13331#0#PHP" expanded="true" />
+                <element signature="e#13342#13592#0#PHP" expanded="true" />
+                <element signature="e#13603#13853#0#PHP" expanded="true" />
+                <element signature="e#13864#14171#0#PHP" expanded="true" />
+                <element signature="e#14181#66112#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bora.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bora.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="1962" column="0" selection-start-line="1962" selection-start-column="0" selection-end-line="1962" selection-end-column="0" />
+              <folding>
+                <element signature="n#style#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#3;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#2;n#div#0;n#div#0;n#div#3;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#2;n#div#3;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#5;n#div#3;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#5;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#5;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#0;n#div#5;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#3;n#div#0;n#div#5;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#form#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#form#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#form#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#form#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#3;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#form#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#4;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#form#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#5;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#form#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#6;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#form#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#0;n#div#7;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#form#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#8;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#form#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#9;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#form#0;n#!!top" expanded="true" />
+                <marker date="1471561719370" expanded="true" signature="18885:18900" placeholder="..." />
+                <marker date="1471561719370" expanded="true" signature="26749:26764" placeholder="..." />
+                <marker date="1471561719370" expanded="true" signature="125066:125080" placeholder="..." />
+                <marker date="1471561719370" expanded="true" signature="135021:135034" placeholder="..." />
+                <marker date="1471561719370" expanded="true" signature="136204:136217" placeholder="..." />
+                <marker date="1471561719370" expanded="true" signature="137864:137877" placeholder="..." />
+                <marker date="1471561719370" expanded="true" signature="138929:138943" placeholder="..." />
+                <marker date="1471561719370" expanded="true" signature="150688:150702" placeholder="..." />
+                <marker date="1471561719370" expanded="true" signature="160643:160656" placeholder="..." />
+                <marker date="1471561719370" expanded="true" signature="161826:161839" placeholder="..." />
+                <marker date="1471561719370" expanded="true" signature="163486:163499" placeholder="..." />
+                <marker date="1471561719370" expanded="true" signature="164551:164565" placeholder="..." />
+                <marker date="1471561719370" expanded="true" signature="176294:176307" placeholder="..." />
+                <marker date="1471561719370" expanded="true" signature="176395:176408" placeholder="..." />
+                <marker date="1471561719370" expanded="true" signature="176496:176509" placeholder="..." />
+                <marker date="1471561719370" expanded="true" signature="176599:176612" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="funcoes.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/funcoes.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="47.076923">
+              <caret line="24" column="33" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="inside.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/inside.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-22.23077">
+              <caret line="108" column="2" selection-start-line="89" selection-start-column="0" selection-end-line="108" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="inserts.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/inserts.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-13.076923">
+              <caret line="20" column="76" selection-start-line="1" selection-start-column="0" selection-end-line="20" selection-end-column="76" />
+              <folding>
+                <marker date="1471541455046" expanded="true" signature="13:182" placeholder="select id_cr... tb_crianca" />
+                <marker date="1471541455046" expanded="true" signature="194:357" placeholder="select id_cr... tb_crianca" />
+                <marker date="1471541455046" expanded="true" signature="371:2026" placeholder="insert into tb_crianca... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="form2.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/form2.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-2.6153846">
+              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="form1.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/form1.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.30769232">
+              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="60.807693">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="comprovante.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/comprovante.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-53.615383">
+              <caret line="82" column="0" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+              <folding>
+                <element signature="n#style#0;n#input#0;n#b#0;n#h5#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#b#0;n#h5#0;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#b#0;n#h5#0;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#div#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/lib/inserts.php" />
+        <option value="$PROJECT_DIR$/inside.php" />
+        <option value="$PROJECT_DIR$/comprovante.php" />
+        <option value="$PROJECT_DIR$/form2.php" />
+        <option value="$PROJECT_DIR$/lib/funcoes.php" />
+        <option value="$PROJECT_DIR$/bora.php" />
+        <option value="$PROJECT_DIR$/assets/racunhoEsc.php" />
+        <option value="$PROJECT_DIR$/form3.php" />
+        <option value="$PROJECT_DIR$/form1.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1616" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="boravencer1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="boravencer1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="boravencer1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="boravencer1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="boravencer1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b012a6fa-5578-4662-bab0-df1df88b1127" name="Default" comment="" />
+      <created>1471531067188</created>
+      <option name="number" value="Default" />
+      <updated>1471531067188</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14717224" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1844473" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/a43b4e35-3874-4913-9847-31c944a93445/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inside.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-22.23077">
+          <caret line="108" column="2" selection-start-line="89" selection-start-column="0" selection-end-line="108" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/inserts.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.076923">
+          <caret line="20" column="76" selection-start-line="1" selection-start-column="0" selection-end-line="20" selection-end-column="76" />
+          <folding>
+            <marker date="1471541455046" expanded="true" signature="13:182" placeholder="select id_cr... tb_crianca" />
+            <marker date="1471541455046" expanded="true" signature="194:357" placeholder="select id_cr... tb_crianca" />
+            <marker date="1471541455046" expanded="true" signature="371:2026" placeholder="insert into tb_crianca... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comprovante.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-53.615383">
+          <caret line="82" column="0" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#input#0;n#b#0;n#h5#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#b#0;n#h5#0;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#b#0;n#h5#0;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bora.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="1962" column="0" selection-start-line="1962" selection-start-column="0" selection-end-line="1962" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#3;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#2;n#div#0;n#div#0;n#div#3;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#2;n#div#3;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#5;n#div#3;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#5;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#5;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#5;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#div#0;n#div#5;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#form#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#form#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#form#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#form#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#form#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#3;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#form#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#4;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#form#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#5;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#form#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#6;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#form#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#7;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#form#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#8;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#form#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#9;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#form#0;n#!!top" expanded="true" />
+            <marker date="1471561719370" expanded="true" signature="18885:18900" placeholder="..." />
+            <marker date="1471561719370" expanded="true" signature="26749:26764" placeholder="..." />
+            <marker date="1471561719370" expanded="true" signature="125066:125080" placeholder="..." />
+            <marker date="1471561719370" expanded="true" signature="135021:135034" placeholder="..." />
+            <marker date="1471561719370" expanded="true" signature="136204:136217" placeholder="..." />
+            <marker date="1471561719370" expanded="true" signature="137864:137877" placeholder="..." />
+            <marker date="1471561719370" expanded="true" signature="138929:138943" placeholder="..." />
+            <marker date="1471561719370" expanded="true" signature="150688:150702" placeholder="..." />
+            <marker date="1471561719370" expanded="true" signature="160643:160656" placeholder="..." />
+            <marker date="1471561719370" expanded="true" signature="161826:161839" placeholder="..." />
+            <marker date="1471561719370" expanded="true" signature="163486:163499" placeholder="..." />
+            <marker date="1471561719370" expanded="true" signature="164551:164565" placeholder="..." />
+            <marker date="1471561719370" expanded="true" signature="176294:176307" placeholder="..." />
+            <marker date="1471561719370" expanded="true" signature="176395:176408" placeholder="..." />
+            <marker date="1471561719370" expanded="true" signature="176496:176509" placeholder="..." />
+            <marker date="1471561719370" expanded="true" signature="176599:176612" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/racunhoEsc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-70.61539">
+          <caret line="923" column="0" selection-start-line="923" selection-start-column="0" selection-end-line="923" selection-end-column="0" />
+          <folding>
+            <element signature="e#7#292#0#PHP" expanded="true" />
+            <element signature="e#302#589#0#PHP" expanded="true" />
+            <element signature="e#713#1000#0#PHP" expanded="true" />
+            <element signature="e#1011#1295#0#PHP" expanded="true" />
+            <element signature="e#1305#1544#0#PHP" expanded="true" />
+            <element signature="e#1555#1794#0#PHP" expanded="true" />
+            <element signature="e#1805#2051#0#PHP" expanded="true" />
+            <element signature="e#2061#2350#0#PHP" expanded="true" />
+            <element signature="e#2360#2608#0#PHP" expanded="true" />
+            <element signature="e#2618#2908#0#PHP" expanded="true" />
+            <element signature="e#2919#3202#0#PHP" expanded="true" />
+            <element signature="e#3212#3544#0#PHP" expanded="true" />
+            <element signature="e#3670#3913#0#PHP" expanded="true" />
+            <element signature="e#3923#4210#0#PHP" expanded="true" />
+            <element signature="e#4221#4508#0#PHP" expanded="true" />
+            <element signature="e#4519#4851#0#PHP" expanded="true" />
+            <element signature="e#4862#5194#0#PHP" expanded="true" />
+            <element signature="e#5205#5537#0#PHP" expanded="true" />
+            <element signature="e#5548#5880#0#PHP" expanded="true" />
+            <element signature="e#5891#6125#0#PHP" expanded="true" />
+            <element signature="e#6136#6420#0#PHP" expanded="true" />
+            <element signature="e#6430#6717#0#PHP" expanded="true" />
+            <element signature="e#6728#7015#0#PHP" expanded="true" />
+            <element signature="e#7026#7307#0#PHP" expanded="true" />
+            <element signature="e#7330#7611#0#PHP" expanded="true" />
+            <element signature="e#7622#7909#0#PHP" expanded="true" />
+            <element signature="e#7920#8207#0#PHP" expanded="true" />
+            <element signature="e#8218#8502#0#PHP" expanded="true" />
+            <element signature="e#8513#8747#0#PHP" expanded="true" />
+            <element signature="e#8758#9045#0#PHP" expanded="true" />
+            <element signature="e#9056#9299#0#PHP" expanded="true" />
+            <element signature="e#9310#9598#0#PHP" expanded="true" />
+            <element signature="e#9609#9897#0#PHP" expanded="true" />
+            <element signature="e#9908#10196#0#PHP" expanded="true" />
+            <element signature="e#10207#10496#0#PHP" expanded="true" />
+            <element signature="e#10507#10796#0#PHP" expanded="true" />
+            <element signature="e#10807#11139#0#PHP" expanded="true" />
+            <element signature="e#11150#11445#0#PHP" expanded="true" />
+            <element signature="e#11456#11743#0#PHP" expanded="true" />
+            <element signature="e#11754#12039#0#PHP" expanded="true" />
+            <element signature="e#12050#12298#0#PHP" expanded="true" />
+            <element signature="e#12309#12557#0#PHP" expanded="true" />
+            <element signature="e#12568#12814#0#PHP" expanded="true" />
+            <element signature="e#12825#13071#0#PHP" expanded="true" />
+            <element signature="e#13082#13331#0#PHP" expanded="true" />
+            <element signature="e#13342#13592#0#PHP" expanded="true" />
+            <element signature="e#13603#13853#0#PHP" expanded="true" />
+            <element signature="e#13864#14171#0#PHP" expanded="true" />
+            <element signature="e#14181#66112#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/form2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.6153846">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/form3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="5.8846154">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+          <folding>
+            <element signature="e#42332#42355#0#HTML" expanded="true" />
+            <element signature="e#42426#42448#0#HTML" expanded="true" />
+            <element signature="e#51267#51289#0#HTML" expanded="true" />
+            <element signature="e#57064#57086#0#HTML" expanded="true" />
+            <element signature="e#109523#109544#0#HTML" expanded="true" />
+            <element signature="e#109603#109624#0#HTML" expanded="true" />
+            <element signature="e#109683#109704#0#HTML" expanded="true" />
+            <element signature="e#109765#109786#0#HTML" expanded="true" />
+            <element signature="e#112769#112790#0#HTML" expanded="true" />
+            <element signature="e#121723#121744#0#HTML" expanded="true" />
+            <element signature="e#125889#125910#0#HTML" expanded="true" />
+            <element signature="e#132311#132332#0#HTML" expanded="true" />
+            <element signature="e#134670#134691#0#HTML" expanded="true" />
+            <element signature="e#137460#137481#0#HTML" expanded="true" />
+            <element signature="e#143261#143282#0#HTML" expanded="true" />
+            <element signature="e#145602#145623#0#HTML" expanded="true" />
+            <element signature="e#149572#149593#0#HTML" expanded="true" />
+            <element signature="e#155478#155499#0#HTML" expanded="true" />
+            <element signature="e#160695#160716#0#HTML" expanded="true" />
+            <marker date="1471570014034" expanded="true" signature="9554:9723" placeholder="select id_cr... tb_crianca" />
+            <marker date="1471570014034" expanded="true" signature="9751:9914" placeholder="select id_cr... tb_crianca" />
+            <marker date="1471570014034" expanded="true" signature="10821:10856" placeholder="SELECT MAX(i... tb_crianca" />
+            <marker date="1471570014034" expanded="true" signature="11256:12686" placeholder="insert into tb_crianca... " />
+            <marker date="1471570014034" expanded="true" signature="11256:13099" placeholder="insert into tb_crianca... " />
+            <marker date="1471570014034" expanded="true" signature="14069:14088" placeholder="..." />
+            <marker date="1471570014034" expanded="true" signature="14410:14419" placeholder="..." />
+            <marker date="1471570014034" expanded="true" signature="18836:18903" placeholder="..." />
+            <marker date="1471570014034" expanded="true" signature="21892:21959" placeholder="..." />
+            <marker date="1471570014034" expanded="true" signature="33793:33808" placeholder="..." />
+            <marker date="1471570014034" expanded="true" signature="41656:41671" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="60.807693">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/funcoes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="47.076923">
+          <caret line="24" column="33" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/form1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30769232">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source name="MySQL - db_boravencer@localhost" uuid="a43b4e35-3874-4913-9847-31c944a93445">
+    <database-info product="MySQL" version="5.7.11" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.35 ( Revision: 5fb9c5849535c13917c2cf9baaece6ef9693ef27 )">
+      <extra-name-characters>#@</extra-name-characters>
+      <identifier-quote-string>`</identifier-quote-string>
+    </database-info>
+    <case-sensitivity plain-identifiers="lower" quoted-identifiers="lower"/>
+    <database-model serializer="dbm" rdbms="MYSQL" format-version="2.4">
+      <schema id="1" name="db_boravencer"/>
+      <table id="2" parent="1" name="tb_crianca"/>
+      <table id="3" parent="1" name="tb_crianca_escola"/>
+      <table id="4" parent="1" name="tb_crianca_projeto"/>
+      <table id="5" parent="1" name="tb_crianca_projeto_quesito"/>
+      <table id="6" parent="1" name="tb_crianca_projeto_quesito_resp"/>
+      <table id="7" parent="1" name="tb_crianca_raca"/>
+      <table id="8" parent="1" name="tb_crianca_resp"/>
+      <table id="9" parent="1" name="tb_crianca_trab"/>
+      <table id="10" parent="1" name="tb_projeto"/>
+      <table id="11" parent="1" name="tb_usuarios"/>
+      <column id="12" parent="2" name="id_cri">
+        <mandatory>1</mandatory>
+        <data-type>int(11)</data-type>
+      </column>
+      <column id="13" parent="2" name="nome_cri">
+        <mandatory>1</mandatory>
+        <data-type>varchar(160)</data-type>
+      </column>
+      <column id="14" parent="2" name="cpf_cri">
+        <data-type>varchar(15)</data-type>
+        <default-expression>&apos;&apos;</default-expression>
+      </column>
+      <column id="15" parent="2" name="rg_cri">
+        <data-type>varchar(18)</data-type>
+      </column>
+      <column id="16" parent="2" name="titulo_eleitor_cri">
+        <data-type>varchar(18)</data-type>
+      </column>
+      <column id="17" parent="2" name="NIS">
+        <data-type>varchar(45)</data-type>
+      </column>
+      <column id="18" parent="2" name="nacionalidade_cri">
+        <data-type>varchar(20)</data-type>
+      </column>
+      <column id="19" parent="2" name="naturalidade_cri">
+        <data-type>varchar(20)</data-type>
+      </column>
+      <column id="20" parent="2" name="end_cri">
+        <data-type>varchar(160)</data-type>
+      </column>
+      <column id="21" parent="2" name="end_comp_cri">
+        <data-type>varchar(100)</data-type>
+      </column>
+      <column id="22" parent="2" name="end_bairro_cri">
+        <data-type>varchar(45)</data-type>
+      </column>
+      <column id="23" parent="2" name="end_uf_cri">
+        <data-type>varchar(4)</data-type>
+      </column>
+      <column id="24" parent="2" name="end_cep_cri">
+        <data-type>varchar(18)</data-type>
+      </column>
+      <column id="25" parent="2" name="end_ra_cri">
+        <data-type>varchar(45)</data-type>
+      </column>
+      <column id="26" parent="2" name="fone_res_cri">
+        <data-type>varchar(18)</data-type>
+      </column>
+      <column id="27" parent="2" name="fone_res_cri1">
+        <data-type>varchar(18)</data-type>
+      </column>
+      <column id="28" parent="2" name="fone_cel_cri">
+        <data-type>varchar(18)</data-type>
+      </column>
+      <column id="29" parent="2" name="fone_cel_cri1">
+        <data-type>varchar(18)</data-type>
+      </column>
+      <column id="30" parent="2" name="whatsapp_cri">
+        <data-type>varchar(18)</data-type>
+      </column>
+      <column id="31" parent="2" name="facebook_cri">
+        <data-type>varchar(25)</data-type>
+      </column>
+      <column id="32" parent="2" name="instagram_cri">
+        <data-type>varchar(45)</data-type>
+      </column>
+      <column id="33" parent="2" name="twitter_cri">
+        <data-type>varchar(45)</data-type>
+      </column>
+      <column id="34" parent="2" name="email_cri">
+        <data-type>varchar(45)</data-type>
+      </column>
+      <column id="35" parent="2" name="dt_nasc_cri">
+        <data-type>date</data-type>
+      </column>
+      <column id="36" parent="2" name="id_raca">
+        <data-type>int(11)</data-type>
+      </column>
+      <column id="37" parent="2" name="sis_dt_insert_cri">
+        <data-type>timestamp</data-type>
+        <default-expression>&apos;CURRENT_TIMESTAMP&apos;</default-expression>
+      </column>
+      <column id="38" parent="2" name="sis_dt_alter_cri">
+        <data-type>datetime</data-type>
+      </column>
+      <column id="39" parent="2" name="sis_cpf_insert_cri">
+        <data-type>varchar(18)</data-type>
+      </column>
+      <column id="40" parent="2" name="sis_cpf_alter_cri">
+        <data-type>varchar(18)</data-type>
+      </column>
+      <column id="41" parent="2" name="pass_cri">
+        <data-type>varchar(90)</data-type>
+      </column>
+      <column id="42" parent="2" name="cidade_cri">
+        <data-type>varchar(50)</data-type>
+      </column>
+      <column id="43" parent="2" name="id_facebook">
+        <data-type>varchar(60)</data-type>
+      </column>
+      <column id="44" parent="2" name="estado_civil_cri">
+        <data-type>varchar(30)</data-type>
+      </column>
+      <column id="45" parent="2" name="beneficiario_cri">
+        <data-type>varchar(5)</data-type>
+      </column>
+      <column id="46" parent="2" name="nome_p_beneficiario_cri">
+        <data-type>varchar(80)</data-type>
+      </column>
+      <column id="47" parent="2" name="cadunico_cri">
+        <data-type>varchar(40)</data-type>
+      </column>
+      <column id="48" parent="2" name="inscricao_enem_cri">
+        <data-type>varchar(80)</data-type>
+      </column>
+      <column id="49" parent="2" name="outro_est_civil_cri">
+        <data-type>varchar(35)</data-type>
+      </column>
+      <column id="50" parent="2" name="deseja_estudar_turno_cri1">
+        <data-type>varchar(20)</data-type>
+      </column>
+      <column id="51" parent="2" name="deseja_estudar_turno_cri2">
+        <data-type>varchar(20)</data-type>
+      </column>
+      <column id="52" parent="2" name="deseja_estudar_macroregio_cri1">
+        <data-type>varchar(40)</data-type>
+      </column>
+      <column id="53" parent="2" name="deseja_estudar_turno_cri3">
+        <data-type>varchar(20)</data-type>
+      </column>
+      <key id="54" parent="2" name="PRIMARY">
+        <columns>id_cri</columns>
+        <primary>1</primary>
+      </key>
+      <column id="55" parent="3" name="id_escola">
+        <mandatory>1</mandatory>
+        <data-type>int(11)</data-type>
+      </column>
+      <column id="56" parent="3" name="id_cri">
+        <mandatory>1</mandatory>
+        <data-type>int(11)</data-type>
+      </column>
+      <column id="57" parent="3" name="instituicao_escola">
+        <mandatory>1</mandatory>
+        <data-type>varchar(180)</data-type>
+      </column>
+      <column id="58" parent="3" name="serie_escola">
+        <data-type>varchar(35)</data-type>
+      </column>
+      <column id="59" parent="3" name="sis_dt_insert_escola">
+        <data-type>timestamp</data-type>
+        <default-expression>&apos;CURRENT_TIMESTAMP&apos;</default-expression>
+      </column>
+      <column id="60" parent="3" name="sis_dt_alter_escola">
+        <data-type>timestamp</data-type>
+        <default-expression>&apos;CURRENT_TIMESTAMP&apos;</default-expression>
+      </column>
+      <column id="61" parent="3" name="sis_cpf_insert_escola">
+        <data-type>varchar(18)</data-type>
+      </column>
+      <column id="62" parent="3" name="sis_cpf_alter_escola">
+        <data-type>varchar(18)</data-type>
+      </column>
+      <column id="63" parent="3" name="formacao_escola">
+        <data-type>varchar(80)</data-type>
+      </column>
+      <column id="64" parent="3" name="rede_escola">
+        <data-type>varchar(20)</data-type>
+      </column>
+      <column id="65" parent="3" name="rede_comp_pub_escola">
+        <data-type>varchar(10)</data-type>
+      </column>
+      <column id="66" parent="3" name="nota_mat_escola">
+        <data-type>varchar(10)</data-type>
+      </column>
+      <column id="67" parent="3" name="nota_port_escola">
+        <data-type>varchar(10)</data-type>
+      </column>
+      <column id="68" parent="3" name="univesidade_pub_escola">
+        <data-type>varchar(5)</data-type>
+      </column>
+      <column id="69" parent="3" name="univesidade_part_escola">
+        <data-type>varchar(5)</data-type>
+      </column>
+      <column id="70" parent="3" name="nome_univesidade_part_escola">
+        <data-type>varchar(80)</data-type>
+      </column>
+      <column id="71" parent="3" name="nome_univesidade_pub_escola">
+        <data-type>varchar(80)</data-type>
+      </column>
+      <column id="72" parent="3" name="qd_series_pub_escola">
+        <data-type>varchar(10)</data-type>
+      </column>
+      <column id="73" parent="3" name="qd_series_part_escola">
+        <data-type>varchar(10)</data-type>
+      </column>
+      <column id="74" parent="3" name="ano_formacao">
+        <data-type>varchar(6)</data-type>
+      </column>
+      <column id="75" parent="3" name="turno_escola">
+        <data-type>varchar(35)</data-type>
+      </column>
+      <key id="76" parent="3" name="PRIMARY">
+        <columns>id_escola</columns>
+        <primary>1</primary>
+      </key>
+      <column id="77" parent="4" name="id_inscricao">
+        <mandatory>1</mandatory>
+        <data-type>int(11)</data-type>
+      </column>
+      <column id="78" parent="4" name="id_proj">
+        <data-type>int(11)</data-type>
+      </column>
+      <column id="79" parent="4" name="id_cri">
+        <data-type>int(11)</data-type>
+      </column>
+      <column id="80" parent="4" name="dt_inscricao_proj">
+        <data-type>timestamp</data-type>
+        <default-expression>&apos;CURRENT_TIMESTAMP&apos;</default-expression>
+      </column>
+      <column id="81" parent="4" name="dt_inicio">
+        <data-type>datetime</data-type>
+      </column>
+      <column id="82" parent="4" name="dt_fim">
+        <data-type>datetime</data-type>
+      </column>
+      <column id="83" parent="4" name="certificacao_proj">
+        <data-type>int(11)</data-type>
+        <default-expression>&apos;0&apos;</default-expression>
+      </column>
+      <column id="84" parent="4" name="habilitado_proj">
+        <data-type>int(11)</data-type>
+        <default-expression>&apos;0&apos;</default-expression>
+      </column>
+      <column id="85" parent="4" name="sis_dt_insert">
+        <data-type>timestamp</data-type>
+        <default-expression>&apos;CURRENT_TIMESTAMP&apos;</default-expression>
+      </column>
+      <column id="86" parent="4" name="sis_dt_alter">
+        <data-type>timestamp</data-type>
+        <default-expression>&apos;CURRENT_TIMESTAMP&apos;</default-expression>
+      </column>
+      <column id="87" parent="4" name="sis_cpf_insert">
+        <data-type>varchar(18)</data-type>
+      </column>
+      <column id="88" parent="4" name="sis_cpf_alter">
+        <data-type>varchar(18)</data-type>
+      </column>
+      <key id="89" parent="4" name="PRIMARY">
+        <columns>id_inscricao</columns>
+        <primary>1</primary>
+      </key>
+      <column id="90" parent="5" name="id_proj">
+        <data-type>int(11)</data-type>
+      </column>
+      <column id="91" parent="5" name="id_quesito">
+        <mandatory>1</mandatory>
+        <data-type>int(11)</data-type>
+      </column>
+      <column id="92" parent="5" name="desc_pergunta">
+        <data-type>varchar(250)</data-type>
+      </column>
+      <column id="93" parent="5" name="desc_pergunta_01">
+        <data-type>varchar(180)</data-type>
+      </column>
+      <column id="94" parent="5" name="desc_pergunta_02">
+        <data-type>varchar(180)</data-type>
+      </column>
+      <column id="95" parent="5" name="desc_pergunta_03">
+        <data-type>varchar(180)</data-type>
+      </column>
+      <column id="96" parent="5" name="desc_pergunta_04">
+        <data-type>varchar(180)</data-type>
+      </column>
+      <column id="97" parent="5" name="desc_pergunta_05">
+        <data-type>varchar(180)</data-type>
+      </column>
+      <column id="98" parent="5" name="desc_pergunta_06">
+        <data-type>varchar(180)</data-type>
+      </column>
+      <column id="99" parent="5" name="desc_pergunta_07">
+        <data-type>varchar(180)</data-type>
+      </column>
+      <column id="100" parent="5" name="desc_pergunta_08">
+        <data-type>varchar(180)</data-type>
+      </column>
+      <column id="101" parent="5" name="desc_pergunta_09">
+        <data-type>varchar(180)</data-type>
+      </column>
+      <column id="102" parent="5" name="desc_pergunta_10">
+        <data-type>varchar(180)</data-type>
+      </column>
+      <column id="103" parent="5" name="desc_pergunta_11">
+        <data-type>varchar(140)</data-type>
+      </column>
+      <column id="104" parent="5" name="desc_pergunta_12">
+        <data-type>varchar(140)</data-type>
+      </column>
+      <column id="105" parent="5" name="desc_pergunta_13">
+        <data-type>varchar(140)</data-type>
+      </column>
+      <column id="106" parent="5" name="desc_pergunta_14">
+        <data-type>varchar(140)</data-type>
+      </column>
+      <column id="107" parent="5" name="desc_pergunta_15">
+        <data-type>varchar(120)</data-type>
+      </column>
+      <column id="108" parent="5" name="desc_pergunta_16">
+        <data-type>varchar(120)</data-type>
+      </column>
+      <column id="109" parent="5" name="desc_pergunta_17">
+        <data-type>varchar(120)</data-type>
+      </column>
+      <column id="110" parent="5" name="desc_pergunta_18">
+        <data-type>varchar(120)</data-type>
+      </column>
+      <key id="111" parent="5" name="PRIMARY">
+        <columns>id_quesito</columns>
+        <primary>1</primary>
+      </key>
+      <column id="112" parent="6" name="id_proj">
+        <data-type>int(11)</data-type>
+      </column>
+      <column id="113" parent="6" name="id_quesito">
+        <mandatory>1</mandatory>
+        <data-type>int(11)</data-type>
+      </column>
+      <column id="114" parent="6" name="id_cri">
+        <data-type>int(11)</data-type>
+      </column>
+      <column id="115" parent="6" name="desc_resposta">
+        <data-type>varchar(250)</data-type>
+      </column>
+      <column id="116" parent="6" name="desc_resposta_01">
+        <data-type>varchar(180)</data-type>
+      </column>
+      <column id="117" parent="6" name="desc_resposta_02">
+        <data-type>varchar(180)</data-type>
+      </column>
+      <column id="118" parent="6" name="desc_resposta_03">
+        <data-type>varchar(180)</data-type>
+      </column>
+      <column id="119" parent="6" name="desc_resposta_04">
+        <data-type>varchar(180)</data-type>
+      </column>
+      <column id="120" parent="6" name="desc_resposta_05">
+        <data-type>varchar(180)</data-type>
+      </column>
+      <column id="121" parent="6" name="desc_resposta_06">
+        <data-type>varchar(180)</data-type>
+      </column>
+      <column id="122" parent="6" name="desc_resposta_07">
+        <data-type>varchar(180)</data-type>
+      </column>
+      <column id="123" parent="6" name="desc_resposta_08">
+        <data-type>varchar(180)</data-type>
+      </column>
+      <column id="124" parent="6" name="desc_resposta_09">
+        <data-type>varchar(180)</data-type>
+      </column>
+      <column id="125" parent="6" name="desc_resposta_10">
+        <data-type>varchar(180)</data-type>
+      </column>
+      <column id="126" parent="6" name="desc_resposta_11">
+        <data-type>varchar(140)</data-type>
+      </column>
+      <column id="127" parent="6" name="desc_resposta_12">
+        <data-type>varchar(140)</data-type>
+      </column>
+      <column id="128" parent="6" name="desc_resposta_13">
+        <data-type>varchar(140)</data-type>
+      </column>
+      <column id="129" parent="6" name="desc_resposta_14">
+        <data-type>varchar(140)</data-type>
+      </column>
+      <column id="130" parent="6" name="desc_resposta_15">
+        <data-type>varchar(120)</data-type>
+      </column>
+      <column id="131" parent="6" name="desc_resposta_16">
+        <data-type>varchar(120)</data-type>
+      </column>
+      <column id="132" parent="6" name="desc_resposta_17">
+        <data-type>varchar(120)</data-type>
+      </column>
+      <column id="133" parent="6" name="desc_resposta_18">
+        <data-type>varchar(120)</data-type>
+      </column>
+      <key id="134" parent="6" name="PRIMARY">
+        <columns>id_quesito</columns>
+        <primary>1</primary>
+      </key>
+      <column id="135" parent="7" name="id_raca">
+        <mandatory>1</mandatory>
+        <data-type>int(11)</data-type>
+      </column>
+      <column id="136" parent="7" name="desc_raca">
+        <data-type>varchar(35)</data-type>
+      </column>
+      <column id="137" parent="7" name="sis_dt_insert_raca">
+        <data-type>timestamp</data-type>
+        <default-expression>&apos;CURRENT_TIMESTAMP&apos;</default-expression>
+      </column>
+      <column id="138" parent="7" name="sis_dt_alter_raca">
+        <data-type>timestamp</data-type>
+        <default-expression>&apos;CURRENT_TIMESTAMP&apos;</default-expression>
+      </column>
+      <column id="139" parent="7" name="sis_cpf_insert_raca">
+        <data-type>varchar(18)</data-type>
+      </column>
+      <column id="140" parent="7" name="sis_cpf_alter_raca">
+        <data-type>varchar(18)</data-type>
+      </column>
+      <key id="141" parent="7" name="PRIMARY">
+        <columns>id_raca</columns>
+        <primary>1</primary>
+      </key>
+      <column id="142" parent="8" name="id_resp">
+        <mandatory>1</mandatory>
+        <data-type>int(11)</data-type>
+      </column>
+      <column id="143" parent="8" name="id_cri">
+        <mandatory>1</mandatory>
+        <data-type>int(11)</data-type>
+      </column>
+      <column id="144" parent="8" name="nome_resp">
+        <mandatory>1</mandatory>
+        <data-type>varchar(160)</data-type>
+      </column>
+      <column id="145" parent="8" name="foto_resp">
+        <data-type>varchar(90)</data-type>
+      </column>
+      <column id="146" parent="8" name="parentesco_resp">
+        <data-type>varchar(25)</data-type>
+      </column>
+      <column id="147" parent="8" name="cpf_resp">
+        <data-type>varchar(15)</data-type>
+        <default-expression>&apos;&apos;</default-expression>
+      </column>
+      <column id="148" parent="8" name="rg_resp">
+        <data-type>varchar(18)</data-type>
+      </column>
+      <column id="149" parent="8" name="fone_cel_resp">
+        <data-type>varchar(18)</data-type>
+      </column>
+      <column id="150" parent="8" name="fone_cel_resp1">
+        <data-type>varchar(18)</data-type>
+      </column>
+      <column id="151" parent="8" name="whatsapp_resp">
+        <data-type>varchar(18)</data-type>
+      </column>
+      <column id="152" parent="8" name="facebook_resp">
+        <data-type>varchar(25)</data-type>
+      </column>
+      <column id="153" parent="8" name="email_resp">
+        <data-type>varchar(45)</data-type>
+      </column>
+      <column id="154" parent="8" name="dt_nasc_resp">
+        <data-type>datetime</data-type>
+      </column>
+      <column id="155" parent="8" name="sis_dt_insert_resp">
+        <data-type>timestamp</data-type>
+        <default-expression>&apos;CURRENT_TIMESTAMP&apos;</default-expression>
+      </column>
+      <column id="156" parent="8" name="sis_dt_alter_resp">
+        <data-type>timestamp</data-type>
+        <default-expression>&apos;CURRENT_TIMESTAMP&apos;</default-expression>
+      </column>
+      <column id="157" parent="8" name="sis_cpf_insert_resp">
+        <data-type>varchar(18)</data-type>
+      </column>
+      <column id="158" parent="8" name="sis_cpf_alter_resp">
+        <data-type>varchar(18)</data-type>
+      </column>
+      <key id="159" parent="8" name="PRIMARY">
+        <columns>id_resp</columns>
+        <primary>1</primary>
+      </key>
+      <column id="160" parent="9" name="id_trab">
+        <mandatory>1</mandatory>
+        <data-type>int(11)</data-type>
+      </column>
+      <column id="161" parent="9" name="id_cri">
+        <mandatory>1</mandatory>
+        <data-type>int(11)</data-type>
+      </column>
+      <column id="162" parent="9" name="nome_trab">
+        <mandatory>1</mandatory>
+        <data-type>varchar(160)</data-type>
+      </column>
+      <column id="163" parent="9" name="end_trab">
+        <data-type>varchar(160)</data-type>
+      </column>
+      <column id="164" parent="9" name="end_comp_trab">
+        <data-type>varchar(100)</data-type>
+      </column>
+      <column id="165" parent="9" name="end_bairro_trab">
+        <data-type>varchar(45)</data-type>
+      </column>
+      <column id="166" parent="9" name="end_uf_trab">
+        <data-type>varchar(4)</data-type>
+      </column>
+      <column id="167" parent="9" name="end_cep_trab">
+        <data-type>varchar(18)</data-type>
+      </column>
+      <column id="168" parent="9" name="end_ra_trab">
+        <data-type>varchar(45)</data-type>
+      </column>
+      <column id="169" parent="9" name="fone_trab">
+        <data-type>varchar(18)</data-type>
+      </column>
+      <column id="170" parent="9" name="fone_ramal_trab">
+        <data-type>varchar(18)</data-type>
+      </column>
+      <column id="171" parent="9" name="whatsapp_trab">
+        <data-type>varchar(18)</data-type>
+      </column>
+      <column id="172" parent="9" name="facebook_trab">
+        <data-type>varchar(25)</data-type>
+      </column>
+      <column id="173" parent="9" name="email_trab">
+        <data-type>varchar(45)</data-type>
+      </column>
+      <column id="174" parent="9" name="sis_dt_insert_trab">
+        <data-type>timestamp</data-type>
+        <default-expression>&apos;CURRENT_TIMESTAMP&apos;</default-expression>
+      </column>
+      <column id="175" parent="9" name="sis_dt_alter_trab">
+        <data-type>timestamp</data-type>
+        <default-expression>&apos;CURRENT_TIMESTAMP&apos;</default-expression>
+      </column>
+      <column id="176" parent="9" name="sis_cpf_insert_trab">
+        <data-type>varchar(18)</data-type>
+      </column>
+      <column id="177" parent="9" name="sis_cpf_alter_trab">
+        <data-type>varchar(18)</data-type>
+      </column>
+      <key id="178" parent="9" name="PRIMARY">
+        <columns>id_trab</columns>
+        <primary>1</primary>
+      </key>
+      <column id="179" parent="10" name="id_proj">
+        <mandatory>1</mandatory>
+        <data-type>int(11)</data-type>
+      </column>
+      <column id="180" parent="10" name="nome_proj">
+        <mandatory>1</mandatory>
+        <data-type>varchar(160)</data-type>
+      </column>
+      <column id="181" parent="10" name="objetivo_proj">
+        <data-type>text</data-type>
+      </column>
+      <column id="182" parent="10" name="status_alvo_proj">
+        <data-type>varchar(35)</data-type>
+      </column>
+      <column id="183" parent="10" name="publico_alvo_proj">
+        <data-type>varchar(45)</data-type>
+      </column>
+      <column id="184" parent="10" name="est_pessoas_proj">
+        <data-type>int(11)</data-type>
+      </column>
+      <column id="185" parent="10" name="dt_criacao_proj">
+        <data-type>datetime</data-type>
+      </column>
+      <column id="186" parent="10" name="dt_prev_ini_proj">
+        <data-type>datetime</data-type>
+      </column>
+      <column id="187" parent="10" name="dt_prev_fim_proj">
+        <data-type>datetime</data-type>
+      </column>
+      <column id="188" parent="10" name="dt_ini_proj">
+        <data-type>datetime</data-type>
+      </column>
+      <column id="189" parent="10" name="dt_fim_proj">
+        <data-type>datetime</data-type>
+      </column>
+      <column id="190" parent="10" name="local_proj">
+        <data-type>varchar(130)</data-type>
+      </column>
+      <column id="191" parent="10" name="end_proj">
+        <data-type>varchar(160)</data-type>
+      </column>
+      <column id="192" parent="10" name="end_comp_proj">
+        <data-type>varchar(100)</data-type>
+      </column>
+      <column id="193" parent="10" name="end_bairro_proj">
+        <data-type>varchar(45)</data-type>
+      </column>
+      <column id="194" parent="10" name="end_uf_proj">
+        <data-type>varchar(4)</data-type>
+      </column>
+      <column id="195" parent="10" name="end_cep_proj">
+        <data-type>varchar(18)</data-type>
+      </column>
+      <column id="196" parent="10" name="end_ra_proj">
+        <data-type>varchar(45)</data-type>
+      </column>
+      <column id="197" parent="10" name="email_proj">
+        <data-type>varchar(45)</data-type>
+      </column>
+      <column id="198" parent="10" name="sis_dt_insert_proj">
+        <data-type>timestamp</data-type>
+        <default-expression>&apos;CURRENT_TIMESTAMP&apos;</default-expression>
+      </column>
+      <column id="199" parent="10" name="sis_dt_alter_proj">
+        <data-type>timestamp</data-type>
+        <default-expression>&apos;CURRENT_TIMESTAMP&apos;</default-expression>
+      </column>
+      <column id="200" parent="10" name="sis_cpf_insert_proj">
+        <data-type>varchar(18)</data-type>
+      </column>
+      <column id="201" parent="10" name="sis_cpf_alter_proj">
+        <data-type>varchar(18)</data-type>
+      </column>
+      <key id="202" parent="10" name="PRIMARY">
+        <columns>id_proj</columns>
+        <primary>1</primary>
+      </key>
+      <column id="203" parent="11" name="id_cpf">
+        <mandatory>1</mandatory>
+        <data-type>varchar(18)</data-type>
+      </column>
+      <column id="204" parent="11" name="nome_user">
+        <data-type>varchar(160)</data-type>
+      </column>
+      <column id="205" parent="11" name="login_user">
+        <data-type>varchar(45)</data-type>
+      </column>
+      <column id="206" parent="11" name="pass_user">
+        <data-type>varchar(90)</data-type>
+      </column>
+      <column id="207" parent="11" name="sis_dt_insert_user">
+        <data-type>timestamp</data-type>
+        <default-expression>&apos;CURRENT_TIMESTAMP&apos;</default-expression>
+      </column>
+      <column id="208" parent="11" name="sis_dt_alter_user">
+        <data-type>timestamp</data-type>
+        <default-expression>&apos;CURRENT_TIMESTAMP&apos;</default-expression>
+      </column>
+      <column id="209" parent="11" name="sis_cpf_insert_user">
+        <data-type>varchar(18)</data-type>
+      </column>
+      <column id="210" parent="11" name="sis_cpf_alter_user">
+        <data-type>varchar(18)</data-type>
+      </column>
+      <key id="211" parent="11" name="PRIMARY">
+        <columns>id_cpf</columns>
+        <primary>1</primary>
+      </key>
+    </database-model>
+  </data-source>
+</component>

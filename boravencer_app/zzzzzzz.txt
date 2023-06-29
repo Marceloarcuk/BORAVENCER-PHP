@@ -1,0 +1,55 @@
+    $_SESSION['senhauser']=$_POST['senha'];
+    $_SESSION['emailuser']=$_POST['email'];
+	$_SESSION['cpfuser']=$_POST['email'];
+	$_SESSION["id_cri"]
+	$_SESSION["nome_cri"]
+	
+	
+	
+	
+	
+	
+	
+	id_cri, 
+nome_cri, 
+cpf_cri, 
+rg_cri, 
+titulo_eleitor_cri, 
+NIS, 
+nacionalidade_cri, 
+naturalidade_cri, 
+end_cri, 
+end_comp_cri, 
+end_bairro_cri, 
+end_uf_cri, 
+end_cep_cri, 
+end_ra_cri, 
+fone_res_cri, 
+fone_res_cri1, 
+fone_cel_cri, 
+fone_cel_cri1, 
+whatsapp_cri, 
+facebook_cri, 
+instagram_cri, 
+twitter_cri, 
+email_cri, 
+dt_nasc_cri, 
+id_raca, 
+sis_dt_insert_cri, 
+sis_dt_alter_cri, 
+sis_cpf_insert_cri, 
+sis_cpf_alter_cri, 
+pass_cri, 
+cidade_cri, 
+id_facebook, 
+estado_civil_cri, 
+beneficiario_cri, 
+nome_p_beneficiario_cri, 
+cadunico_cri, 
+inscricao_enem_cri, 
+outro_est_civil_cri, 
+deseja_estudar_turno_cri1, 
+deseja_estudar_turno_cri2, 
+deseja_estudar_macroregio_cri1			
+			
+			

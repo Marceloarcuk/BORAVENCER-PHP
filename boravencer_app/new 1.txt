@@ -1,0 +1,145 @@
+ <?php 
+
+						/*
+						
+						
+						
+						
+                                            <select class="form-control" name="uf" id="mySelect"  onchange="mudaBairro();">
+												<?php if (!$RegNovo){ $rede_escola= $tb_crianca_escola[rede_escola];} else { $rede_escola= "DF";}?>
+                                                <option value="0" <?php if(isset($rede_escola)){echo selected( '0', $rede_escola);} ?>></option>
+                                                <option  value="DF" <?php if(isset($rede_escola)){echo selected( 'DF', $rede_escola);} ?>>DF</option>
+											
+											
+tb_crianca_escola[instituicao_escola]
+tb_crianca_escola[formacao_escola]
+tb_crianca_escola[rede_escola]
+tb_crianca_escola[qd_series_part_escola]
+tb_crianca_escola[qd_series_pub_escola]
+tb_crianca_escola[ano_formacao]
+tb_crianca_escola[turno_escola]											
+tb_crianca_escola[serie_escola]
+tb_crianca_escola[nota_mat_escola]
+tb_crianca_escola[nota_port_escola]
+
+tb_crianca_escola[rede_comp_pub_escola]
+tb_crianca_escola[univesidade_pub_escola]
+tb_crianca_escola[univesidade_part_escola]
+tb_crianca_escola[nome_univesidade_part_escola]
+tb_crianca_escola[nome_univesidade_pub_escola]
+
+
+
+											
+tb_crianca_escola[id_escola] 
+tb_crianca_escola[id_cri]
+
+
+tb_crianca_escola[sis_dt_insert_escola]
+tb_crianca_escola[sis_dt_alter_escola]
+tb_crianca_escola[sis_cpf_insert_escola]
+tb_crianca_escola[sis_cpf_alter_escola]
+
+
+
+												
+				
+
+						
+						
+						
+						
+						
+						
+						
+						
+						
+												
+	$rs_access=$conection->prepare("SELECT * FROM tb_crianca_escola where id_cri='" . $_SESSION["id_cri"] . "';");
+	$registro_access = ($rs_access->execute()) ? $rs_access->fetchAll() : false;
+	if ($registro_access){
+		$RegNovo=False;
+		foreach ($registro_access as $tb_crianca_escola);
+		//$id_escola = $tb_crianca_escola[id_escola];;
+	}
+	else
+	{
+		$id_escola = "";
+	}
+						
+
+						
+						
+						
+						
+						
+						
+						$tb_crianca_escola
+						
+						
+						SELECT * FROM db_boravencer.tb_crianca_escola;
+tb_crianca_escola[id_escola] 
+tb_crianca_escola[id_cri]
+tb_crianca_escola[instituicao_escola]
+tb_crianca_escola[serie_escola]
+tb_crianca_escola[sis_dt_insert_escola]
+tb_crianca_escola[sis_dt_alter_escola]
+tb_crianca_escola[sis_cpf_insert_escola]
+tb_crianca_escola[sis_cpf_alter_escola]
+tb_crianca_escola[formacao_escola]
+tb_crianca_escola[rede_escola]
+tb_crianca_escola[rede_comp_pub_escola]
+tb_crianca_escola[nota_mat_escola]
+tb_crianca_escola[nota_port_escola]
+tb_crianca_escola[univesidade_pub_escola]
+tb_crianca_escola[univesidade_part_escola]
+tb_crianca_escola[nome_univesidade_part_escola]
+tb_crianca_escola[nome_univesidade_pub_escola]
+tb_crianca_escola[qd_series_pub_escola]
+tb_crianca_escola[qd_series_part_escola]
+tb_crianca_escola[ano_formacao]
+tb_crianca_escola[turno_escola]
+						
+*/
+						?>
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+<br><label>Turno que estuda*</label><br>
+<select class='form-control text-uppercase text-right' name='turno'  >
+<option value='0'
+
+></option>
+ <option value='MATUTINO'
+
+>Matutino</option>
+<option value='VESPERTINO'
+
+>vespertino</option>
+<option value='NOTURNO'
+
+>Noturno</option>
+<option value='INTEGRAL'
+
+>Integral</option>
+</select>						
+						
+						
+						
+						
+						
+						
+						
+						
